@@ -2,7 +2,8 @@
 ## Installation
 
 #### 1:
-- Edit entrypoint.sh
+- Edit dockerfile
+    - Change username with your username and same with password
 - Run command in this folder: 
 
 ```bash
